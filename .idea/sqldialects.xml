@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/data/external/gadb_postgresql_create_airports_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/reports/analysis.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../learning_models/data/raw/testu_05_12_2022.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../learning_models/reports/analysis.sql" dialect="MySQL" />
+  </component>
+</project>
